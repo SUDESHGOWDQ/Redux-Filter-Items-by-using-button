@@ -1,7 +1,7 @@
 # React + Vite
 
 # Now create a new project using vite, add a slice for events.
-In your component you should have:
+#### In your component you should have:
 	1.	Three buttons/tabs at the top. (All, Upcoming, Completed)
 	2.	List of all events by default.
 	3.	When Upcoming is clicked, using selectors you have to filter only upcoming events and show in the list.
